@@ -228,7 +228,7 @@ void game::p_o_turn()
 	}
 	if (o_turn==true)
 	{
-		cout<<"game over winner is O!"<<endl;
+		cout<<"game over winner is X!"<<endl;
 		game_start=false;
 	}
 }
